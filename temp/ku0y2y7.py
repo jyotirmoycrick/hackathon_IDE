@@ -1,0 +1,1 @@
+print("joy maa kali")
